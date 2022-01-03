@@ -1,0 +1,58 @@
+.m1-chip {
+    min-height: 500px;
+    width: 100vw;
+    padding-top: 50px;
+}
+
+.reason-head-light {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.reason-head-dark {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #212121;
+}
+
+.hero-heading {
+    color: aliceblue;
+    font-size: 4rem;
+    font-weight: 600;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+    margin-bottom: 1.8rem;
+}
+
+.background-dark {
+    background-color: #212121;
+   
+}
+
+.long-battery-life {
+    height: 600px;
+
+    border-radius: 30px;
+
+}
+
+.Hero-section {
+    width: 100vw !important;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.long-battery-text {
+    color: #8cdb57;
+    font-weight: 500;
+    font-size: 1.9rem;
+}
+
+.attractive-head {
+    color: #212121;
+    font-weight: 600;
+    font-size: 1.6rem;
+}
